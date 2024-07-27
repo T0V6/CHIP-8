@@ -1,4 +1,4 @@
-# cCHIP-8
+# CHIP-8
 A CHIP-8 emulator built in C
 
 CHIP-8 is a simple interpreted programming language developed in the mid-1970s for early 8-bit computers. It was designed specifically for video game development and features a limited instruction set, running on a virtual machine and enabling cross-platform compatibility through emulators.
@@ -7,7 +7,7 @@ CHIP-8 is a simple interpreted programming language developed in the mid-1970s f
 
 1. Clone the repository
 ```bash
-    git clone https://github.com/T0V6/cCHIP-8.git
+    git clone https://github.com/T0V6/CHIP-8.git
 ```
 
 2. Build source code
